@@ -9,3 +9,11 @@
     z-index: -1;
 
 }
+
+.konten {
+    background-color: rgba(172, 172, 179, 0.7);
+    color: rgb(219, 171, 57);
+    padding: 15px;
+    border-radius: 20px;
+    width: 700px;
+}
